@@ -94,8 +94,8 @@ void setup() {
   debugln();
   debugln();
   debugln(F("=================================================================="));
-  debugln(F("  Canabus Decoder System"));
-  debugln(F("  GADGET: Garage door opener"));
+  debugln(F("  CAN Bus Decoder System"));
+  debugln(F("  GADGET: Gate opener"));
   debugln(F("  Modified by Jakkrit - 15 December 2024"));
   debugln(F("=================================================================="));
   debugln();
